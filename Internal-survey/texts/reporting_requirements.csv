@@ -1,0 +1,10 @@
+D,e,t,a,i,l,s, ,a,b,o,u,t, ,w,h,o, ,t,h,e, ,a,n,n,o,t,a,t,o,r,s, ,a,r,e, ,(,r,e,s,e,a,r,c,h,e,r,s,",", ,p,r,o,f,e,s,s,i,o,n,a,l,s,",", ,c,r,o,w,d, ,w,o,r,k,e,r,s,), ,a,n,d, ,w,h,a,t, ,i,f, ,a,n,y, ,q,u,a,l,i,f,i,c,a,t,i,o,n, ,w,o,r,k, ,t,h,e,y, ,h,a,d, ,t,o, ,i,n,d,i,c,a,t,e, ,t,h,e,y, ,w,e,r,e, ,c,a,p,a,b,l,e, ,o,f, ,d,o,i,n,g, ,t,h,e, ,e,r,r,o,r, ,a,n,n,o,t,a,t,i,o,n,.
+S,a,m,p,l,e,s, ,o,f, ,t,h,e, ,s,y,s,t,e,m, ,o,u,t,p,u,t, ,w,i,t,h, ,e,r,r,o,r,s,",", ,a,n,d, ,a,n,a,l,y,s,i,s, ,o,f, ,t,h,e, ,c,a,u,s,e, ,f,o,r, ,t,h,e, ,e,r,r,o,r,.
+-, ,e,x,a,m,p,l,e,s, ,f,o,r, ,t,h,e, ,d,i,f,f,e,r,e,n,t, ,e,r,r,o,r, ,t,y,p,e,s, ,d,e,s,c,r,i,b,e,d,"
+",-, ,d,e,t,a,i,l,s, ,o,n, ,t,h,e, ,m,e,t,h,o,d,o,l,o,g,y, ,(,c,h,o,s,e,n, ,s,y,s,t,e,m, ,v,a,r,i,a,n,t,s, ,a,n,d, ,s,a,m,p,l,e,s,",", ,m,o,t,i,v,a,t,i,o,n, ,f,o,r, ,t,h,e, ,c,h,o,s,e,n, ,e,r,r,o,r, ,t,a,x,o,n,o,m,y,)
+s,e,v,e,r,a,l, ,r,e,p,r,e,s,e,n,t,a,t,i,v,e, ,o,u,t,p,u,t,s, ,o,f, ,t,h,e, ,s,y,s,t,e,m, ,(,n,o,t, ,c,h,e,r,r,y,-,p,i,c,k,i,n,g, ,t,h,e, ,b,e,s,t, ,o,n,e,s,",", ,b,u,t, ,n,o,t, ,r,a,n,d,o,m, ,e,i,t,h,e,r, ,-, ,r,a,t,h,e,r, ,h,i,g,h,l,i,g,h,t,i,n,g, ,t,h,e, ,a,d,v,a,n,t,a,g,e,s, ,&, ,p,r,o,b,l,e,m,s, ,o,f, ,t,h,e, ,s,y,s,t,e,m,)
+E,x,a,m,p,l,e, ,o,u,t,p,u,t,s, ,s,h,o,w,i,n,g, ,e,r,r,o,r,s,/,t,h,e, ,c,o,n,t,e,x,t, ,i,n, ,w,h,i,c,h, ,e,r,r,o,r,s, ,t,e,n,d, ,t,o, ,o,c,c,u,r,.
+R,e,l,e,v,a,n,t, ,b,a,c,k,g,r,o,u,n,d, ,o,f, ,t,h,e, ,a,n,n,o,t,a,t,o,r,s,",", ,e,.,g,., ,w,h,e,t,h,e,r, ,j,o,u,r,n,a,l,i,s,t,s, ,o,r, ,c,r,o,w,d, ,w,o,r,k,e,r,s, ,a,n,a,l,y,z,e,d, ,n,e,w,s, ,t,e,x,t,.
+D,e,f,i,n,i,t,i,o,n,s, ,f,o,r, ,e,a,c,h, ,t,y,p,e, ,o,f, ,e,r,r,o,r,",", ,a,n,d, ,a,n, ,a,p,p,e,n,d,i,x, ,w,i,t,h, ,a,n,n,o,t,a,t,i,o,n, ,g,u,i,d,e,l,i,n,e,s,.,"
+","
+",I,f, ,c,a,r,r,y,i,n,g, ,o,u,t, ,a, ,c,o,m,p,a,r,i,s,o,n, ,b,e,t,w,e,e,n, ,t,w,o, ,s,y,s,t,e,m,s,",", ,I, ,w,o,u,l,d, ,a,p,p,r,e,c,i,a,t,e, ,s,o,m,e, ,s,t,a,t,i,s,t,i,c,s, ,t,o, ,s,e,e, ,i,f, ,a,n, ,e,r,r,o,r, ,o,c,c,u,r,s, ,s,i,g,n,i,f,i,c,a,n,t,l,y, ,m,o,r,e, ,i,n, ,t,h,e, ,o,u,t,p,u,t, ,o,f, ,S,y,s,t,e,m, ,A, ,t,h,a,n, ,o,f, ,S,y,s,t,e,m, ,B,.
