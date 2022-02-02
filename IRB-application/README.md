@@ -1,0 +1,3 @@
+# IRB application
+
+This folder contains all files related to the IRB application that we filed before carrying out our study. In our application, we wrote down all ethical considerations, drafted an information letter and informed consent form, and spelled out how this study is in agreement with the GDPR. The study has been approved by the research ethics and data management committee associated with the first author. 
