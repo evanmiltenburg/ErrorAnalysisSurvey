@@ -1,11 +1,11 @@
 identifier,comment,code
-R_2viGZF9YUjaTxAZ,"Whilst I do correct errors, I've never really considered carrying out an error analysis."
-R_3CClKJCQVTV5fKQ,"I didn't know of this option, I thought error description is enough. "
-R_3PUctIwcmDJt5t4,"I work in rule-based NLG, hence unexpected errors in output are unlikely"
-R_1DAuvy72fx3Y9px,My work was on errors in people not text
-R_cIRoJzsDgiLpSWB,My studies are taking much of my time
-R_1Owpizm5kuD60On,"Hasnt been a part of my research problem, but is becoming increasingly relevant "
-R_3Oprj30Ag4eTLZO,"The NLG systems I worked on were rule based, and before we evaluated them we made sure that there were no errors.  We carried out task-based evaluations comparing different strategies, and sometimes asked users to judge fluency etc but there were no generation errors to analyse."
-R_2at4iBHFbZ9qXF9,"see above (tedious, lack of standards)"
-R_2ZESZwXOU9XYLO6,"I used to work in NLG and don't any more (sorry there was no button for that at the beginning). I worked on rule-based system and there was no error ananlysis of the NLG because it didn't make any errors, we made sure the rules worked correctly before the NLG was used as part of a bigger system.  There may have been error analysis of e.g. the speech recognition errors which led to the wrong response being generated, but not of the NLG itself."
-R_2c0i363Fh3IQN3w,I have not done a formal study for the NLG components of my project so far.
+R_2viGZF9YUjaTxAZ,"Whilst I do correct errors, I've never really considered carrying out an error analysis.",Original comment
+R_3CClKJCQVTV5fKQ,"I didn't know of this option, I thought error description is enough. ",Original comment
+R_3PUctIwcmDJt5t4,"I work in rule-based NLG, hence unexpected errors in output are unlikely",Original comment
+R_1DAuvy72fx3Y9px,My work was on errors in people not text,Original comment
+R_cIRoJzsDgiLpSWB,My studies are taking much of my time,Original comment
+R_1Owpizm5kuD60On,"Hasnt been a part of my research problem, but is becoming increasingly relevant ",Original comment
+R_3Oprj30Ag4eTLZO,"The NLG systems I worked on were rule based, and before we evaluated them we made sure that there were no errors.  We carried out task-based evaluations comparing different strategies, and sometimes asked users to judge fluency etc but there were no generation errors to analyse.",Original comment
+R_2at4iBHFbZ9qXF9,"see above (tedious, lack of standards)",Original comment
+R_2ZESZwXOU9XYLO6,"I used to work in NLG and don't any more (sorry there was no button for that at the beginning). I worked on rule-based system and there was no error ananlysis of the NLG because it didn't make any errors, we made sure the rules worked correctly before the NLG was used as part of a bigger system.  There may have been error analysis of e.g. the speech recognition errors which led to the wrong response being generated, but not of the NLG itself.",Original comment
+R_2c0i363Fh3IQN3w,I have not done a formal study for the NLG components of my project so far.,Original comment

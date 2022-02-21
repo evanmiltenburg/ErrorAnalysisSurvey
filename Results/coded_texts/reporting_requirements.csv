@@ -1,18 +1,18 @@
 identifier,comment,code
-R_3EVTcFVWkcADmAn, May be a table that show correlation between different types of errors.
-R_1Fb4cMbBLCr1Mps,sufficient evidence to evaluate the standard of the human rater(s)
-R_1zRNqaef0umL2QF,Better to use a sensible characterization of errors that actually occur rather than trying to shoehorn them into an existing taxonomy
-R_1OxiIuva6OIySjr,This is important. Thanks!
-R_2viGZF9YUjaTxAZ,"I think including the types of errors made is fine, however, I think that a list of the errors would be incredibly useful, as this would allow people reading papers to see commonality amongst NLG systems (for example, do GPT-J, GPT-3 and GPT-NeoX all make the same mistakes?)"
+R_3EVTcFVWkcADmAn, May be a table that show correlation between different types of errors.,Original comment
+R_1Fb4cMbBLCr1Mps,sufficient evidence to evaluate the standard of the human rater(s),Original comment
+R_1zRNqaef0umL2QF,Better to use a sensible characterization of errors that actually occur rather than trying to shoehorn them into an existing taxonomy,Original comment
+R_1OxiIuva6OIySjr,This is important. Thanks!,Original comment
+R_2viGZF9YUjaTxAZ,"I think including the types of errors made is fine, however, I think that a list of the errors would be incredibly useful, as this would allow people reading papers to see commonality amongst NLG systems (for example, do GPT-J, GPT-3 and GPT-NeoX all make the same mistakes?)",Original comment
 R_3CClKJCQVTV5fKQ,"Annotation schema in which they explain their error categories if adapted from another NLG task, e.g., question answering might require other categories than machine translation.
-Not only raw numbers, maybe percentages would be better. Also naming which categories were ignored and due to which reasons. "
-R_8AMlQcW7cB0S0lH,statistically driven sampling (stratified where appropriate even)
-R_1DAuvy72fx3Y9px,If (real) users find the system helps in a (real) task.
-R_3PmNb56WDtzFl00,Annnotation process should be described in enough detail that other researchers can replicate the analysis and get similar results
-R_1msf0KMkf86xvU7,"The annotation guidelines, and the process followed to train the annotators. This can help with adopting a similar methodology for papers on the same task that aim to compare against them."
-R_1oGS3sNlc9Pzbhu,"Types of errors and how that impacts a system. E.g., a system which generates fluent and grammatically correct output but contains factual error is not very useful."
-R_3dS2PTlM6FW2INE,"A description of how the authors created the categories, with some opportunity for the annotators to report their satisfaction with the aplicability of the categories."
+Not only raw numbers, maybe percentages would be better. Also naming which categories were ignored and due to which reasons. ",Original comment
+R_8AMlQcW7cB0S0lH,statistically driven sampling (stratified where appropriate even),Original comment
+R_1DAuvy72fx3Y9px,If (real) users find the system helps in a (real) task.,Original comment
+R_3PmNb56WDtzFl00,Annnotation process should be described in enough detail that other researchers can replicate the analysis and get similar results,Original comment
+R_1msf0KMkf86xvU7,"The annotation guidelines, and the process followed to train the annotators. This can help with adopting a similar methodology for papers on the same task that aim to compare against them.",Original comment
+R_1oGS3sNlc9Pzbhu,"Types of errors and how that impacts a system. E.g., a system which generates fluent and grammatically correct output but contains factual error is not very useful.",Original comment
+R_3dS2PTlM6FW2INE,"A description of how the authors created the categories, with some opportunity for the annotators to report their satisfaction with the aplicability of the categories.",Original comment
 R_u3vQ66FYA58WEnL,"Proper metrics for measuring inter-annotator agreement. This is an issue not only in NLG. There is a variety of metrics and they are not all well-known or properly used. 
 
-However, I also warn aginst over-formalising error analysis!  "
-R_2c0i363Fh3IQN3w,"You are thinking on a very large output. Sometimes you don't have that data. Have you considered the necessary cardinality of your sample to have a trustable agreement coefficient? The characteristics of your raters are also important, if you do this, though, the composition of your annotator group and the quantity of your sample shall vary. All this is quite costly."
+However, I also warn aginst over-formalising error analysis!  ",Original comment
+R_2c0i363Fh3IQN3w,"You are thinking on a very large output. Sometimes you don't have that data. Have you considered the necessary cardinality of your sample to have a trustable agreement coefficient? The characteristics of your raters are also important, if you do this, though, the composition of your annotator group and the quantity of your sample shall vary. All this is quite costly.",Original comment

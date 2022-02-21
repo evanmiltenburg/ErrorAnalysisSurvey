@@ -1,22 +1,22 @@
 identifier,comment,code
-R_2uIYMUOPADUs0Gp,General attention to the topic
-R_1Fb4cMbBLCr1Mps,general taxonomy gives idea of challenging aspects
-R_1zRNqaef0umL2QF,Qualitative analysis plus examples more informative than numeric scores for understanding where improvements are still needed
-R_2Bx0flTszYdxDPA,They help ground the limitations of the systems And create directions for future work
-R_tK6Arub4LFxhMTT,Allows to assess whether things you belive could be improved are indeed the things that should be
-R_1OxiIuva6OIySjr,They help understand the limitation of the proposed method. 
-R_9FWWZPFa03RKtDb,It gives a complementary picture of standard metrics.
-R_3CClKJCQVTV5fKQ,"Clear view on data and not only a cherry picking error description. The different categories are helpful to identify problems of the NLG system. NLG is often evaluated only by automatic metrics which are not perfect and do not take all issues into account, such a error analysis can help to identify errors and not only trying to reach the best scores. The NLG systems get more and more black boxes which we don't know what they are doing so a manual analysis is helpful for identifying problems which we had overlooked focusing on automatic metrics. "
-R_3PUctIwcmDJt5t4,"Diversification of the errors, making the researcher able to fine-tune a system based on them."
-R_8AMlQcW7cB0S0lH,"It provided useful insights into the type of errors produced in the output which are not evident in string based or corpus based metrics - BLEU, BLEURT etc"
+R_2uIYMUOPADUs0Gp,General attention to the topic,Original comment
+R_1Fb4cMbBLCr1Mps,general taxonomy gives idea of challenging aspects,Original comment
+R_1zRNqaef0umL2QF,Qualitative analysis plus examples more informative than numeric scores for understanding where improvements are still needed,Original comment
+R_2Bx0flTszYdxDPA,They help ground the limitations of the systems And create directions for future work,Original comment
+R_tK6Arub4LFxhMTT,Allows to assess whether things you belive could be improved are indeed the things that should be,Original comment
+R_1OxiIuva6OIySjr,They help understand the limitation of the proposed method. ,Original comment
+R_9FWWZPFa03RKtDb,It gives a complementary picture of standard metrics.,Original comment
+R_3CClKJCQVTV5fKQ,"Clear view on data and not only a cherry picking error description. The different categories are helpful to identify problems of the NLG system. NLG is often evaluated only by automatic metrics which are not perfect and do not take all issues into account, such a error analysis can help to identify errors and not only trying to reach the best scores. The NLG systems get more and more black boxes which we don't know what they are doing so a manual analysis is helpful for identifying problems which we had overlooked focusing on automatic metrics. ",Original comment
+R_3PUctIwcmDJt5t4,"Diversification of the errors, making the researcher able to fine-tune a system based on them.",Original comment
+R_8AMlQcW7cB0S0lH,"It provided useful insights into the type of errors produced in the output which are not evident in string based or corpus based metrics - BLEU, BLEURT etc",Original comment
 R_1DAuvy72fx3Y9px,"It shows the kinds of failures the system has, and points to where problems in the (often Black Box) System may lie. 
 
-It is also a good sign that the whole analysis of results has considered all results. "
-R_3PmNb56WDtzFl00,"Qualitative insights about what doesnt work.    Which is useful for planning future research, and also for deciding whether to use a model/algorithm in a project (since some types of errors are much more concerning than others)"
-R_1msf0KMkf86xvU7,They provide an idea of where the models are actually failing. This helps understand if the proposed approach is tackling the problem it intends to solve (or improve on). It also gives ideas for future work.
-R_1oGS3sNlc9Pzbhu,"Error analyses can show the areas where a system struggles to generate the correct output which can be accuracy, coherence, fluency, etc."
-R_cIRoJzsDgiLpSWB,The way that error is treated in language due to the difficulty of  the natural language processing methods and its variety across the different levels of processes
-R_1Owpizm5kuD60On,Awareness of the kinds of biases these system exhibit when trying to generate something meaningful and at the same point also showcasing what needs to be done to further the improvement of these models 
-R_3dS2PTlM6FW2INE,"Providing extra depth about the state of their system. That is, providing more detailed information about the strenghts and challenges regarding the system that you would not be able to obtain if you would just report average fluency, BLEU, etc. Furthermore, it is also more ""objective"" than the average qualitative analysis that we often see, that generally just reports overall first impressions of the author."
-R_u3vQ66FYA58WEnL,"When NLG error analysis is conducted manually (i.e. by humans), it provides valuable information about the quality of NLG, and also can tell us where the problems are."
-R_2c0i363Fh3IQN3w,It specifies error providing categories for them.
+It is also a good sign that the whole analysis of results has considered all results. ",Original comment
+R_3PmNb56WDtzFl00,"Qualitative insights about what doesnt work.    Which is useful for planning future research, and also for deciding whether to use a model/algorithm in a project (since some types of errors are much more concerning than others)",Original comment
+R_1msf0KMkf86xvU7,They provide an idea of where the models are actually failing. This helps understand if the proposed approach is tackling the problem it intends to solve (or improve on). It also gives ideas for future work.,Original comment
+R_1oGS3sNlc9Pzbhu,"Error analyses can show the areas where a system struggles to generate the correct output which can be accuracy, coherence, fluency, etc.",Original comment
+R_cIRoJzsDgiLpSWB,The way that error is treated in language due to the difficulty of  the natural language processing methods and its variety across the different levels of processes,Original comment
+R_1Owpizm5kuD60On,Awareness of the kinds of biases these system exhibit when trying to generate something meaningful and at the same point also showcasing what needs to be done to further the improvement of these models ,Original comment
+R_3dS2PTlM6FW2INE,"Providing extra depth about the state of their system. That is, providing more detailed information about the strenghts and challenges regarding the system that you would not be able to obtain if you would just report average fluency, BLEU, etc. Furthermore, it is also more ""objective"" than the average qualitative analysis that we often see, that generally just reports overall first impressions of the author.",Original comment
+R_u3vQ66FYA58WEnL,"When NLG error analysis is conducted manually (i.e. by humans), it provides valuable information about the quality of NLG, and also can tell us where the problems are.",Original comment
+R_2c0i363Fh3IQN3w,It specifies error providing categories for them.,Original comment

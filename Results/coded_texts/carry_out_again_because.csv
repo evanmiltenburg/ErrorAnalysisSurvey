@@ -1,18 +1,18 @@
 identifier,comment,code
-R_2uIYMUOPADUs0Gp,Not on a formal and structured level as for now.
-R_3EVTcFVWkcADmAn,It can improve the results and quality of generations.
-R_1Fb4cMbBLCr1Mps,Need to measure accuracy of generated texts
-R_2Bx0flTszYdxDPA,They are too useful to not do them
-R_tK6Arub4LFxhMTT,Sometimes it is needed...
-R_1OxiIuva6OIySjr,I think it's useful
-R_9FWWZPFa03RKtDb,It is useful
-R_8AMlQcW7cB0S0lH,I think its important to manually inspect the data from a computational linguistic perspective and it can provide valuable insights into improving inputs perhaps or neural architectures in order to guarantee more semantically adequate   production systems.
-R_3PmNb56WDtzFl00,Essential part of evaluation!
-R_1msf0KMkf86xvU7,"I do believe in the importance of error analysis, so I'll make sure to include them as much as possible. However, when working with collaborators, not everyone sees its importance and is willing to invest time (and resources) on it."
-R_1oGS3sNlc9Pzbhu,"Scores from automatic evaluation metrics cannot reliably detect or quantify all types of errors in NLG, so manual error analysis is still probably the best kind of evaluation."
-R_3kgFfd7vL38wXiE,Why not :)
-R_3dS2PTlM6FW2INE,I feel like the experience with the error analysis I have carried out helps me to outline better categories in the future.
-R_2wmLQttiaGr9OkJ,?
-R_10rcJTKXKKERNbF,I think carring out error analyses is a way to improve the systems
-R_u3vQ66FYA58WEnL,"Error analysis is crucial for many uses of NLG systems, especially for systems intended to produce outputs for human audience."
-R_12tjBK7tLWimKGc,"Not necessarily for published research, but doing so for my team is a fairly regular part of my industry job"
+R_2uIYMUOPADUs0Gp,Not on a formal and structured level as for now.,Original comment
+R_3EVTcFVWkcADmAn,It can improve the results and quality of generations.,Original comment
+R_1Fb4cMbBLCr1Mps,Need to measure accuracy of generated texts,Original comment
+R_2Bx0flTszYdxDPA,They are too useful to not do them,Original comment
+R_tK6Arub4LFxhMTT,Sometimes it is needed...,Original comment
+R_1OxiIuva6OIySjr,I think it's useful,Original comment
+R_9FWWZPFa03RKtDb,It is useful,Original comment
+R_8AMlQcW7cB0S0lH,I think its important to manually inspect the data from a computational linguistic perspective and it can provide valuable insights into improving inputs perhaps or neural architectures in order to guarantee more semantically adequate   production systems.,Original comment
+R_3PmNb56WDtzFl00,Essential part of evaluation!,Original comment
+R_1msf0KMkf86xvU7,"I do believe in the importance of error analysis, so I'll make sure to include them as much as possible. However, when working with collaborators, not everyone sees its importance and is willing to invest time (and resources) on it.",Original comment
+R_1oGS3sNlc9Pzbhu,"Scores from automatic evaluation metrics cannot reliably detect or quantify all types of errors in NLG, so manual error analysis is still probably the best kind of evaluation.",Original comment
+R_3kgFfd7vL38wXiE,Why not :),Original comment
+R_3dS2PTlM6FW2INE,I feel like the experience with the error analysis I have carried out helps me to outline better categories in the future.,Original comment
+R_2wmLQttiaGr9OkJ,?,Original comment
+R_10rcJTKXKKERNbF,I think carring out error analyses is a way to improve the systems,Original comment
+R_u3vQ66FYA58WEnL,"Error analysis is crucial for many uses of NLG systems, especially for systems intended to produce outputs for human audience.",Original comment
+R_12tjBK7tLWimKGc,"Not necessarily for published research, but doing so for my team is a fairly regular part of my industry job",Original comment
