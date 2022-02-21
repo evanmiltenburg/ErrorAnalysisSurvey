@@ -1,0 +1,32 @@
+comment-000,KPI standards
+comment-001,"Dialogue systems, response generations"
+comment-002,all NLG research. 
+comment-003,most NLG papers
+comment-004,All papers with an experimental component
+comment-005,"Ones proposing improvements, especially if the improvements have a certain goal (e.g. changing syntax, did only the bottom line change? or something syntactic)
+Probably can think of other things"
+comment-006,"Any paper really, but I understand that it is not always feasible, due to time and economic constraints. But it should be expected to a higher extent than currently."
+comment-007,"I think an error analysis would be useful for any papers where an NLG system is generating text, and making mistakes.  I hadn't heard of error analysis before this survey, but have read a lot of NLG papers, none of which contained an error analysis.  Not doing so, seems at best a little dishonest."
+comment-008,"All NLG paper with a small amount of test data so that the manual error annotation is easy doable. For example, paper proposing a new NLG system for machine translation, text simplification, text summarization, question answering... "
+comment-009,"E2E-NLG in particular, given the difficulties in debugging black-box models."
+comment-010,"System papers - papers which claim to improve on semantic adequacy/controllability for neural text generation systems i.e. pipeline neural architecture and controllable neural generation, better input representation and evaluation papers in general."
+comment-011,Any work on a system that outputs text
+comment-012,"Any paper which evaluates a model, algorithm, or system should include an error analysis"
+comment-013,"Pretty much all papers that claim to be doing something better than others. For NLG, in particular, just showing that a model gets higher X score(s) does not help understand why that is the case. It serves better to the community to have an understanding of the real capabilities and limitations of the models. So, to better compare systems, an error analysis can help show where a particular system is ""doing better"" than the other, making a stronger case for using it (or not). "
+comment-014,"- Papers describing novel approaches/architectures to NLG: It would be useful to know whether a particular approach is prone to making mistakes related to fluency, accuracy, coherency, etc.
+- Papers comparing two or more NLG systems."
+comment-015,"Journal of Automated Reasoning
+Journal of Intelligent Systems
+Journal of Logic and Computation
+"
+comment-016,I think any NLG paper should conduct error analyses to help readers better understand the limitations and potential risk of current model as well as datasets.
+comment-017,Any paper which introduces a new NLG model should also talk about the pitfalls of generations or the things that the model gets stuck in since that provides an immediate reference to put things in perspective with. 
+comment-018,"Generally any paper that introduces a system in the NLG domain (even more broadly: NLP). Especially if you have limited time and resources for a quantitative human evaluation study, you can get interesting results with just a small amount of annotators."
+comment-019,explainable AI and confidence analysis
+comment-020,For papers using neural generation models which can produce errors.
+comment-021,"most of them: new models, new systems..."
+comment-022,"I have to say that what is considered an error depends partially on the intended use of the NLG system. For systems that are intended to produce grammatical coherent text for human audiences, error analysis is necessary in order to get a good estimation of system quality. However, some systems might be intended to produce different output, for example poetry, or literary-style imitations, so criteria of errors may be different there. There might also be papers that focus on computational efficiency, and thus disregard quality of output, so those might avoid error analysis.  
+
+Some NLG papers use BLEU scores as indicators of NLG quality. This is very convenient as BLEU scores can be computed automatically against available human-sourced 'gold data'. But BLEU scores can be misleading and are not a good alternative to manual analysis of errors.  "
+comment-023,All of them.
+comment-024,"Any paper that's presenting an NLG system, and many if not all that survey multiple NLG papers or analyze evaluation methodologies (e.g. if you're validating how well an automatic metric does, you might want to see how it responds to different types of errors)"

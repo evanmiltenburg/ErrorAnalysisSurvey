@@ -1,0 +1,14 @@
+comment-000,No
+comment-001,no
+comment-002,Trade-off between improving model/approach vs conducting error analysis
+comment-003,Time is the largest barrier
+comment-004,"Yes. It is not popular to conduct error analysis these days, unfortunately. "
+comment-005,Not really.  I've just never considered running one.
+comment-006,My supervisor do not see the relevance of it as we know no paper with such a error analysis and hence they recommend me to not spend much time on it. 
+comment-007,No
+comment-008,"Reproducibility of error analysis or human evaluation in general would be another concern, but there has been some interesting work recently in this area."
+comment-009,The importance given to error analyses is very low in the current research paradigm and we optimize for scores from reviewers for novelty not for wrror analysis
+comment-010,"Mostly time and resources, if there is a strict deadline, it is oftentimes quicker to just do a very straightforward quantitative analysis."
+comment-011,lack of tools and resources for all languages
+comment-012,I think error analysis should be carried out if possible by experts on the area and not by crowdworkers.
+comment-013,"Time, money, availability of adequate annotators. A taxonomy of errors could be useful, but it cannot cover everything - there is a variety of issues that can be considered errors, including things that are errors only in some situation but not in other.. Also, a too-big of a taxonomy could be inconvenient to use."

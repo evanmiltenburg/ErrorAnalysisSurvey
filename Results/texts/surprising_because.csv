@@ -1,0 +1,3 @@
+comment-000,"using NLG systems every day, I know that however good the output is, it still makes small mistakes that need correcting such as confusing ""me"" and ""you"" roles."
+comment-001,"Without an understanding of errors, especially regarding what the most frequent errors involve, it is quite hard to correctly develop a system. It may end up being just blind hyperparameter optimisation (for NN ones)"
+comment-002,I haven't read plenty of literature as NLG is only part of my research
