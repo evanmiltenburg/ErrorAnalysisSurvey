@@ -11,8 +11,8 @@ We start out with a general table (here is the start of *challenges.csv*:
 
 | identifier  | comment | code |
 |-------------|---------|------|
-| comment-000 | Scale and resources |	|
-| comment-001 |	It's time consuming and some times to cover all types of errors is very hard. |  |
+| R_2uIYMUOPADUs0Gp | Scale and resources |	|
+| R_3EVTcFVWkcADmAn |	It's time consuming and some times to cover all types of errors is very hard. |  |
 | ... |	... | |
 
 The steps are then as follows:
@@ -27,12 +27,12 @@ After coding, the table could look as follows:
 
 | identifier  | comment                                                      | code             |
 | ----------- | ------------------------------------------------------------ | ---------------- |
-| comment-000 | Scale and resources                                          | Original comment |
-| comment-000 | Scale                                                        | Scale            |
-| comment-000 | Resources                                                    | Resources        |
-| comment-001 | It's time consuming and some times to cover all types of errors is very hard. | Original comment |
-| comment-001 | It's time consuming                                          | Time             |
-| comment-001 | Some times to cover all types of errors is very hard.        | Coverage         |
+| R_2uIYMUOPADUs0Gp | Scale and resources                                          | Original comment |
+| R_2uIYMUOPADUs0Gp | Scale                                                        | Scale            |
+| R_2uIYMUOPADUs0Gp | Resources                                                    | Resources        |
+| R_3EVTcFVWkcADmAn | It's time consuming and some times to cover all types of errors is very hard. | Original comment |
+| R_3EVTcFVWkcADmAn | It's time consuming                                          | Time             |
+| R_3EVTcFVWkcADmAn | Some times to cover all types of errors is very hard.        | Coverage         |
 
 NB. The original comment should remain in the document, so that it's easy to check whether you've missed anything.
 

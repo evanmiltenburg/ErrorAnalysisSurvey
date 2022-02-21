@@ -1,21 +1,21 @@
 identifier,comment,code
-comment-000,Scale and resources
-comment-001,It's time consuming and some times to cover all types of errors is very hard.
-comment-002,benchmarked against what? time-consuming. necessity for IRR (but usually lack of willing qualified participants)
-comment-003,Time pressure
-comment-004,They can be time consuming to get right because it means contextualising your numbers
-comment-005,"Defining categories,
+R_2uIYMUOPADUs0Gp,Scale and resources
+R_3EVTcFVWkcADmAn,It's time consuming and some times to cover all types of errors is very hard.
+R_1Fb4cMbBLCr1Mps,benchmarked against what? time-consuming. necessity for IRR (but usually lack of willing qualified participants)
+R_1zRNqaef0umL2QF,Time pressure
+R_2Bx0flTszYdxDPA,They can be time consuming to get right because it means contextualising your numbers
+R_tK6Arub4LFxhMTT,"Defining categories,
 Choosing amount of effort to invest and in what"
-comment-006,"It's not cool, so some of the co-authors had a push back"
-comment-007,"It is hard to define clearly, especially in utput with poor quality, where the source of errors can be multiple. There is a lack of clearly described schemes, and the ones that exists are typically not well documented."
-comment-008,The lack of clear methodology - type of errors.   Some appear random they pick a 100 and categorise the errors with not error schema.  Often the sampling may or may not be statistically significant and there is no attempt to justify the sample size
-comment-009,"Inter-annotator agreement.  Ie, trying to define the error analysis well enough that different annotators produced comparable analyses."
-comment-010,"Establishing a set of error categories that all annotators can understand and apply. This requires several iterations (just like with any annotation guideline). So, it is time consuming and tiring, specially if done only towards the end of the project."
-comment-011,"It was time-consuming and prone to mistakes, especially when analysing for accuracy or correctness."
-comment-012,No previous experience in my area
-comment-013,"There isn't really a standardized set of categories that you could use and build upon. So it felt like reinventing the wheel myself when trying to come up with a set of categories, going through the output."
-comment-014,"If not performed by human, an error analysis can require to process the generated output, such processing tools must be independent from the generator and be robust enough. Such tools does not exist for all languages.  If processed by human -&gt; usual hassle of time, recruitment and biais "
-comment-015,"- deciding the sample size
+R_1OxiIuva6OIySjr,"It's not cool, so some of the co-authors had a push back"
+R_9FWWZPFa03RKtDb,"It is hard to define clearly, especially in utput with poor quality, where the source of errors can be multiple. There is a lack of clearly described schemes, and the ones that exists are typically not well documented."
+R_8AMlQcW7cB0S0lH,The lack of clear methodology - type of errors.   Some appear random they pick a 100 and categorise the errors with not error schema.  Often the sampling may or may not be statistically significant and there is no attempt to justify the sample size
+R_3PmNb56WDtzFl00,"Inter-annotator agreement.  Ie, trying to define the error analysis well enough that different annotators produced comparable analyses."
+R_1msf0KMkf86xvU7,"Establishing a set of error categories that all annotators can understand and apply. This requires several iterations (just like with any annotation guideline). So, it is time consuming and tiring, specially if done only towards the end of the project."
+R_1oGS3sNlc9Pzbhu,"It was time-consuming and prone to mistakes, especially when analysing for accuracy or correctness."
+R_3kgFfd7vL38wXiE,No previous experience in my area
+R_3dS2PTlM6FW2INE,"There isn't really a standardized set of categories that you could use and build upon. So it felt like reinventing the wheel myself when trying to come up with a set of categories, going through the output."
+R_2wmLQttiaGr9OkJ,"If not performed by human, an error analysis can require to process the generated output, such processing tools must be independent from the generator and be robust enough. Such tools does not exist for all languages.  If processed by human -&gt; usual hassle of time, recruitment and biais "
+R_10rcJTKXKKERNbF,"- deciding the sample size
 - defining the error categories: not too broad, not too fine grained"
-comment-016,"Manual error analysis is very time-consuming. In my case, we also used 2 annotators, for measuring inter-annotator agreement. I had to prepare the rubrics, then prepare sample materials for training annotators, then conduct training trials. Only then we could begin the real annotation and analysis.    So, again, it is a process that takes time and resources.  "
-comment-017,"It's not necessarily obvious what the categories used should be, especially when you have multiple similar/overlapping things going wrong."
+R_u3vQ66FYA58WEnL,"Manual error analysis is very time-consuming. In my case, we also used 2 annotators, for measuring inter-annotator agreement. I had to prepare the rubrics, then prepare sample materials for training annotators, then conduct training trials. Only then we could begin the real annotation and analysis.    So, again, it is a process that takes time and resources.  "
+R_12tjBK7tLWimKGc,"It's not necessarily obvious what the categories used should be, especially when you have multiple similar/overlapping things going wrong."
