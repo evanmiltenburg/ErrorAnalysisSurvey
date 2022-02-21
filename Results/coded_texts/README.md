@@ -11,8 +11,8 @@ We start out with a general table (here is the start of *challenges.csv*:
 
 | identifier  | comment | code |
 |-------------|---------|------|
-| R_2uIYMUOPADUs0Gp | Scale and resources |	|
-| R_3EVTcFVWkcADmAn |	It's time consuming and some times to cover all types of errors is very hard. |  |
+| R_2uIYMUOPADUs0Gp | Scale and resources | Original comment |
+| R_3EVTcFVWkcADmAn |	It's time consuming and some times to cover all types of errors is very hard. | Original comment |
 | ... |	... | |
 
 The steps are then as follows:
