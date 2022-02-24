@@ -16,3 +16,5 @@ R_u3vQ66FYA58WEnL,"Proper metrics for measuring inter-annotator agreement. This 
 
 However, I also warn aginst over-formalising error analysis!  ",Original comment
 R_2c0i363Fh3IQN3w,"You are thinking on a very large output. Sometimes you don't have that data. Have you considered the necessary cardinality of your sample to have a trustable agreement coefficient? The characteristics of your raters are also important, if you do this, though, the composition of your annotator group and the quantity of your sample shall vary. All this is quite costly.",Original comment
+R_3rMofNwuc818Ldq,Ideally some comparison with errors in concurrent systems if not already available.,Original comment
+R_12RQqpVGE2qYoq3,some of the hypotheses or ideas that came to their mind when coming across the error/mistake,Original comment

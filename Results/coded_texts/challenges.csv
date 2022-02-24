@@ -19,3 +19,6 @@ R_10rcJTKXKKERNbF,"- deciding the sample size
 - defining the error categories: not too broad, not too fine grained",Original comment
 R_u3vQ66FYA58WEnL,"Manual error analysis is very time-consuming. In my case, we also used 2 annotators, for measuring inter-annotator agreement. I had to prepare the rubrics, then prepare sample materials for training annotators, then conduct training trials. Only then we could begin the real annotation and analysis.    So, again, it is a process that takes time and resources.  ",Original comment
 R_12tjBK7tLWimKGc,"It's not necessarily obvious what the categories used should be, especially when you have multiple similar/overlapping things going wrong.",Original comment
+R_3rMofNwuc818Ldq,"- Mainly, it can be tedious, since one needs to look at a lot of outputs.
+- It can be challenging to define properly the error categories, which is crucial to make the analysis both informative (categories should be fine-grained enough) and reliable (categories should be result in a high IAA).",Original comment
+R_12RQqpVGE2qYoq3,"I did this during my PhD (i.e., more than 40 years ago). We didn't have then the tools to do a decent job at the needed scale. Also, all the work was done manually.",Original comment

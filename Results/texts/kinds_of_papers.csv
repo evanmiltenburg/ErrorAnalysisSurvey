@@ -31,3 +31,5 @@ R_u3vQ66FYA58WEnL,"I have to say that what is considered an error depends partia
 Some NLG papers use BLEU scores as indicators of NLG quality. This is very convenient as BLEU scores can be computed automatically against available human-sourced 'gold data'. But BLEU scores can be misleading and are not a good alternative to manual analysis of errors.  ",Original comment
 R_2c0i363Fh3IQN3w,All of them.,Original comment
 R_12tjBK7tLWimKGc,"Any paper that's presenting an NLG system, and many if not all that survey multiple NLG papers or analyze evaluation methodologies (e.g. if you're validating how well an automatic metric does, you might want to see how it responds to different types of errors)",Original comment
+R_3rMofNwuc818Ldq,Basically any paper that presents and/or compares outputs of (an) NLG system(s). ,Original comment
+R_12RQqpVGE2qYoq3,"Concerning papers, the problem lies mostly with the politics of the people in charge of these papers. I think that error analysis should definitely be taken on board, and we should try to spend more time reflecting what can be expected from them given a specific task.",Original comment
