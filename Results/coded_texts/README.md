@@ -18,7 +18,7 @@ We start out with a general table (here is the start of *challenges.csv*:
 The steps are then as follows:
 
 1. Read through all the comments, to familiarise yourself with the data.
-2. Then identify the different component answers provided in each comment. For example, `comment-000` provides two component answers: "scale" and "resources."
+2. Then identify the different component answers provided in each comment. For example, comment `R_2uIYMUOPADUs0Gp` provides two component answers: "scale" and "resources."
 3. Duplicate the row to end up with one row (original comment) + as many rows as needed to separately code each component answer. Codes can be whatever you like, as long as they capture the essence of the answer.
 4. Once you are done with all comments, look over the coded component answers, and see if any codes could be merged. Merge only if the codes seem equivalent. If they relate to separate concerns, but they belong to the same theme, we will combine them at a later stage.
 5. Write down a summary of your observations: which codes can be grouped together? Do you think they are representative of bigger issues/themes? How do the codes and themes relate to our research question?
