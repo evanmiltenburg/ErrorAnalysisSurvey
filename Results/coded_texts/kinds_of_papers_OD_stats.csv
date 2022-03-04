@@ -1,0 +1,11 @@
+"code","description","occurrences"
+"all","all/most (not further specified) papers should include EA",5
+"backup-human-eval","note on EA as a backup method if human evaluation campaign can't be run",1
+"benefits","explanation of benefits of EA, typically arguing for more EA application",7
+"criticism-current","remark/criticism on current practices, typically arguing for more EA application",7
+"eval","papers on evaluation metrics/methods should include EA",3
+"exclude-subfield","papers on a specific task/subproblem/architecture do not need to include EA",1
+"experimental","all papers that present experiments in NLG should include EA",16
+"if-possible","note on time/money limitations",1
+"subfield","papers on a specific task/subproblem/architecture of NLG (end-to-end, data-to-text etc.) should include EA",9
+"venues","mentions specific publication venues",1

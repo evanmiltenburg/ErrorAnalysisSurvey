@@ -1,0 +1,16 @@
+"code","description","occurrences"
+"annotation-schema","include details on the annotation schema and/or its creation",3
+"baseline-comparison","include similar results of baselines",1
+"custom-taxonomy","the taxonomy should be custom, not too formalized",3
+"error-impacts","include details on impact of different error types",1
+"error-type-correlation"," include details on correlation of different error types",1
+"excluded-categories","include details on categories of errors *not* used in the evaluation ",1
+"human-rater-comments","include comments of human raters on the annotation experience",1
+"human-rater-details","include details on human raters",3
+"inter-annotator-agreement","include IAA for human raters",2
+"interpretation","interpret the different types of errors and their causes",1
+"list-of-errors","include full list of errors (=release data?)",1
+"percentages","include percentage, not just raw numbers",1
+"remark","remark, example, comment",4
+"sampling","include details on the sample used for error analysis (selection strategy, statistical power)",2
+"user-evaluation","include extrinsic evaluation with real users",1
