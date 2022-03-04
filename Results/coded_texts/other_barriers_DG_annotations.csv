@@ -1,18 +1,38 @@
 identifier,comment,code
+R_3EVTcFVWkcADmAn,No,Original comment
 R_3EVTcFVWkcADmAn,No,No
+R_1Fb4cMbBLCr1Mps,no,Original comment
 R_1Fb4cMbBLCr1Mps,no,No
+R_1zRNqaef0umL2QF,Trade-off between improving model/approach vs conducting error analysis,Original comment
 R_1zRNqaef0umL2QF,Trade-off between improving model/approach vs conducting error analysis,Time-Effort-TradeOff
+R_2Bx0flTszYdxDPA,Time is the largest barrier,Original comment
 R_2Bx0flTszYdxDPA,Time is the largest barrier,Time
+R_1OxiIuva6OIySjr,"Yes. It is not popular to conduct error analysis these days, unfortunately. ",Original comment
 R_1OxiIuva6OIySjr,"Yes. It is not popular to conduct error analysis these days, unfortunately. ",Nobody-does-it
+R_2viGZF9YUjaTxAZ,Not really.  I've just never considered running one.,Original comment
 R_2viGZF9YUjaTxAZ,Not really.  I've just never considered running one.,No
+R_3CClKJCQVTV5fKQ,My supervisor do not see the relevance of it as we know no paper with such a error analysis and hence they recommend me to not spend much time on it. ,Original comment
 R_3CClKJCQVTV5fKQ,My supervisor do not see the relevance of it as we know no paper with such a error analysis and hence they recommend me to not spend much time on it. ,Nobody-does-it
+R_8AMlQcW7cB0S0lH,No,Original comment
 R_8AMlQcW7cB0S0lH,No,No
+R_1oGS3sNlc9Pzbhu,"Reproducibility of error analysis or human evaluation in general would be another concern, but there has been some interesting work recently in this area.",Original comment
 R_1oGS3sNlc9Pzbhu,"Reproducibility of error analysis or human evaluation in general would be another concern, but there has been some interesting work recently in this area.",Reproducibility_issues
-R_1Owpizm5kuD60On,The importance given to error analyses is very low in the current research paradigm and we optimize for scores from reviewers for novelty not for wrror analysis,Low-importance
-R_3dS2PTlM6FW2INE,"Mostly time and resources, if there is a strict deadline, it is oftentimes quicker to just do a very straightforward quantitative analysis.",Time
-R_2wmLQttiaGr9OkJ,lack of tools and resources for all languages,lack_of_resources
+R_1Owpizm5kuD60On,The importance given to error analyses is very low in the current research paradigm and we optimize for scores from reviewers for novelty not for wrror analysis,Original comment
+R_1Owpizm5kuD60On,The importance given to error analyses is very low in the current research paradigm,Low-importance
+R_1Owpizm5kuD60On,We optimize for scores from reviewers for novelty not for wrror analysis,Emphasis-on-other-aspects
+R_3dS2PTlM6FW2INE,"Mostly time and resources, if there is a strict deadline, it is oftentimes quicker to just do a very straightforward quantitative analysis.",Original comment
+R_3dS2PTlM6FW2INE,Mostly time,Time
+R_3dS2PTlM6FW2INE,resources,Resources
+R_2wmLQttiaGr9OkJ,lack of tools and resources for all languages,Original comment
+R_2wmLQttiaGr9OkJ,lack of tools,Tools
+R_2wmLQttiaGr9OkJ,resources,Resources
+R_10rcJTKXKKERNbF,I think error analysis should be carried out if possible by experts on the area and not by crowdworkers.,Original comment
 R_10rcJTKXKKERNbF,I think error analysis should be carried out if possible by experts on the area and not by crowdworkers.,Experts-required
-R_u3vQ66FYA58WEnL,"Time, money, availability of adequate annotators. A taxonomy of errors could be useful, but it cannot cover everything - there is a variety of issues that can be considered errors, including things that are errors only in some situation but not in other.. Also, a too-big of a taxonomy could be inconvenient to use.",lack_of_resources
-R_3rMofNwuc818Ldq,- My language level in the target language of the system I present.,Experts-required
-R_3rMofNwuc818Ldq,- How many outputs are publicly available in other systems.,"lack_of_resources, Reproducibility_issues"
+R_u3vQ66FYA58WEnL,"Time, money, availability of adequate annotators. A taxonomy of errors could be useful, but it cannot cover everything - there is a variety of issues that can be considered errors, including things that are errors only in some situation but not in other.. Also, a too-big of a taxonomy could be inconvenient to use.",Original comment
+R_u3vQ66FYA58WEnL,"Time, money, availability of adequate annotators. A taxonomy of errors could be useful, but it cannot cover everything - there is a variety of issues that can be considered errors, including things that are errors only in some situation but not in other.. Also, a too-big of a taxonomy could be inconvenient to use.",Resources
+R_3rMofNwuc818Ldq,"- My language level in the target language of the system I present.
+- How many outputs are publicly available in other systems.",Original comment
+R_3rMofNwuc818Ldq,My language level in the target language of the system I present.,Experts-required
+R_3rMofNwuc818Ldq,How many outputs are publicly available in other systems.,Resources
+R_12RQqpVGE2qYoq3,nope,Original comment
 R_12RQqpVGE2qYoq3,nope,No
