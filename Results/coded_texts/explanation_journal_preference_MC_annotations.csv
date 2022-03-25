@@ -1,25 +1,69 @@
-identifier,comment
-R_3EVTcFVWkcADmAn,It's make my NLG system more accurate.
-R_1Fb4cMbBLCr1Mps,Based on assumption that the conference is NOT ACL or similiar top-tier venue!
-R_1zRNqaef0umL2QF,"More space, less deadline pressure"
-R_2Bx0flTszYdxDPA,The difference would be the depth of the analysis but heading something remains Important in both cases
-R_tK6Arub4LFxhMTT,The quality of my work should not differ by the venue
-R_1OxiIuva6OIySjr,"it should be a norm, similar to reporducibility, at both venues."
-R_9FWWZPFa03RKtDb,more space and higher expectations
-R_2viGZF9YUjaTxAZ,"position of writing a paper or presenting at a conference, I would almost certainly include an error analysis."
-R_3CClKJCQVTV5fKQ,"Higher page limit, more time to publish, more quality, higher demands in journal articles "
-R_3PUctIwcmDJt5t4,Journal article usually offer a higher page limit.
-R_8AMlQcW7cB0S0lH,"for long papers essential, any ACL endorsed conference
-Also I think there is an overeliance on metric based evaluations without any clear understanding of there strengths and weakness(BLEU)  and a general decline to provide any linguistic analysis of outputs. the focus on deep learning approaches, decline of computational linguistic skills in postgraduate researchers (with solely an ML training, nor research evaluation encouraged.  In some cases they don't have the linguistic skills."
-R_1DAuvy72fx3Y9px,"More space and time, journal publication, more likely to have an error analysis."
-R_3PmNb56WDtzFl00,Error analyses should be included in both conf and journal papers
-R_1msf0KMkf86xvU7,"more space in a journal article allows to expand on the experiments, including the error analysis. our research are is heavily conference-focused, our main points of reference are conference papers. So, since they are regarded in a higher standard, they should also be subjected to a higher level of scrutiny and quality expectation,  an error analysis included in both."
-R_1oGS3sNlc9Pzbhu,"deadlines and page limits for conference papers, typically tighter, less likely to do this a conference paper"
-R_cIRoJzsDgiLpSWB,Error analysis will contribute to may article 
-R_2at4iBHFbZ9qXF9,"Journal articles, more comprehensive,  include an error analysis to give a more complete picture of an NLG system."
-R_3dS2PTlM6FW2INE,"Bigger page limit, not strict deadline "
-R_2wmLQttiaGr9OkJ,"depend on the size and the study, e.g. system for  legal/medical purposes or creativity"
-R_u3vQ66FYA58WEnL,"journal reviewers, more demanding on details, including error analysis. journals,more space (pages)"
-R_2c0i363Fh3IQN3w,in our field conference paper are as important as journal papers
-R_3rMofNwuc818Ldq,"more space in a journal paper, but on needs to find space in a shorter paper too. "
-R_12RQqpVGE2qYoq3,Difference of space and time.
+identifier,comment,code
+R_3EVTcFVWkcADmAn,It's make my NLG system more accurate.,Original comment
+R_3EVTcFVWkcADmAn,It's make my NLG system more accurate.,Culture_change
+R_1Fb4cMbBLCr1Mps,Based on assumption that the conference is NOT ACL or similiar top-tier venue!,Original comment
+R_1zRNqaef0umL2QF,"More space, less deadline pressure",Original comment
+R_1zRNqaef0umL2QF,More space,Space
+R_1zRNqaef0umL2QF,less deadline pressure,Time
+R_2Bx0flTszYdxDPA,The difference would be the depth of the analysis but heading something remains Important in both cases,Original comment
+R_2Bx0flTszYdxDPA,difference the depth of the analysis,Difference
+R_2Bx0flTszYdxDPA,The difference would be the depth of the analysis but heading something remains Important in both cases,Both
+R_tK6Arub4LFxhMTT,The quality of my work should not differ by the venue,Original comment
+R_tK6Arub4LFxhMTT,The quality of my work should not differ by the venue,Both
+R_tK6Arub4LFxhMTT,quality,"Quality, Both"
+R_1OxiIuva6OIySjr,"I think it should be a norm, similar to reporducibility, at both venues.",Original comment
+R_1OxiIuva6OIySjr,"it should be a norm, both venues",Norm
+R_1OxiIuva6OIySjr,"it should be a norm, both venues",Both
+R_9FWWZPFa03RKtDb,There are more space and higher expectations.,Original comment
+R_9FWWZPFa03RKtDb,more space,Space
+R_9FWWZPFa03RKtDb,higher expectations,Demands
+R_2viGZF9YUjaTxAZ,"Having discovered that error analysis is a thing, if I were in the position of writing a paper or presenting at a conference, I would almost certainly include an error analysis.",Original comment
+R_3CClKJCQVTV5fKQ,"Higher page limit, more time to publish, more quality and higher demands in journal articles ",Original comment
+R_3CClKJCQVTV5fKQ,"Higher page limit, more time to publish, more quality and higher demands in journal articles ",Journal
+R_3CClKJCQVTV5fKQ,Higher page limit,"Space, Journal"
+R_3CClKJCQVTV5fKQ,more time to publish,"Time, Journal"
+R_3CClKJCQVTV5fKQ,more quality,"Quality, Journal"
+R_3CClKJCQVTV5fKQ,higher demands,"Demands, Journal"
+R_3PUctIwcmDJt5t4,Journal article usually offer a higher page limit.,Original comment
+R_3PUctIwcmDJt5t4,higher page limit,Space
+R_8AMlQcW7cB0S0lH,"I think for long papers it is essential and I would expect this any ACL endorsed conference.
+Also I think there is an overeliance on metric based evaluations without any clear understanding of there strengths and weakness(BLEU)  and a general decline to provide any linguistic analysis of outputs. I fear the focus on deep learning approaches has resulted in a decline of computational linguistic skills in postgraduate researchers (with solely an ML training) and nor  are such research evaluation encouraged.  In some cases they don't have the linguistic skills.",Original comment
+R_1DAuvy72fx3Y9px,"More space and time involved in a journal publication, means it is more likely to have an error analysis.",Original comment
+R_1DAuvy72fx3Y9px,More space,"Space, Journal"
+R_1DAuvy72fx3Y9px,More  time ,"Time, Journal"
+R_1DAuvy72fx3Y9px,"More space and time involved in a journal publication, means it is more likely to have an error analysis.",Journal
+R_3PmNb56WDtzFl00,Error analyses should be included in both conf and journal papers,Original comment
+R_3PmNb56WDtzFl00,Error analyses should be included in both conf and journal papers,Both
+R_1msf0KMkf86xvU7,"Normally, having more space in a journal article allows to expand on the experiments, including the error analysis. However, since our research are is heavily conference-focused, our main points of reference are conference papers. So, since they are regarded in a higher standard, they should also be subjected to a higher level of scrutiny and quality expectation. So, I do think an error analysis should be included in both.",Original comment
+R_1msf0KMkf86xvU7,"Normally, having more space in a journal article allows to expand on the experiments, including the error analysis. However, since our research are is heavily conference-focused, our main points of reference are conference papers. So, since they are regarded in a higher standard, they should also be subjected to a higher level of scrutiny and quality expectation. So, I do think an error analysis should be included in both.",Both
+R_1msf0KMkf86xvU7,more space in a journal article,"Space, Journal"
+R_1msf0KMkf86xvU7,"our research are is heavily conference-focused, higher level of scrutiny","Demands, Conference"
+R_1msf0KMkf86xvU7,"our research are is heavily conference-focused,  quality expectation","Quality, Conference"
+R_1oGS3sNlc9Pzbhu,"The deadlines and page limits for conference papers are typically tighter, so I would be slightly less likely to do this a conference paper. ",Original comment
+R_1oGS3sNlc9Pzbhu,"The deadlines and page limits for conference papers are typically tighter, so I would be slightly less likely to do this a conference paper. ",Journal
+R_1oGS3sNlc9Pzbhu,"deadlines tighter,conference paper","Time, Conference"
+R_1oGS3sNlc9Pzbhu,"page limits tghter, conference paper","Space, Conference"
+R_cIRoJzsDgiLpSWB,Error analysis will contribute to may article definitely because it can increase the what my investigation has done.,Original comment
+R_cIRoJzsDgiLpSWB,Error analysis will contribute to may article definitely because it can increase the what my investigation has done.,Quality
+R_2at4iBHFbZ9qXF9,"Journal articles are more comprehensive, and they should include an error analysis to give a more complete picture of an NLG system.",Original comment
+R_2at4iBHFbZ9qXF9,"Journal articles are more comprehensive, and they should include an error analysis to give a more complete picture of an NLG system.",Journal
+R_2at4iBHFbZ9qXF9,"more comprehensive, journal articles","Demands, Journal"
+R_3dS2PTlM6FW2INE,"Bigger page limit, you are not as much faced with a strict deadline that requires you to think about how to do the most in the least amount of time.",Original comment
+R_3dS2PTlM6FW2INE,"Bigger page limit, you are not as much faced with a strict deadline that requires you to think about how to do the most in the least amount of time.",Journal
+R_3dS2PTlM6FW2INE,Bigger page limit,"Space, Journal"
+R_3dS2PTlM6FW2INE,not a strict deadline,"Time, Journal"
+R_2wmLQttiaGr9OkJ,depend on size and the study. If the system is for legal/medical purpose or for creativity,Original comment
+R_2wmLQttiaGr9OkJ,depend on size and the study. If the system is for legal/medical purpose or for creativity,Demands
+R_u3vQ66FYA58WEnL,"journal reviewers tend to be more demanding on details, including error analysis. Also, journals provide more space (pages) for articles.",Original comment
+R_u3vQ66FYA58WEnL,"journal reviewers tend to be more demanding on details, including error analysis. Also, journals provide more space (pages) for articles.",Journal
+R_u3vQ66FYA58WEnL,more demanding on details,"Demands, Journal"
+R_u3vQ66FYA58WEnL,more space (pages) ,"Space, Journal"
+R_2c0i363Fh3IQN3w,I understand in our field conference paper are as important as journal papers.,Original comment
+R_2c0i363Fh3IQN3w,I understand in our field conference paper are as important as journal papers.,Both
+R_2c0i363Fh3IQN3w,our field conference paper are as important as journal papers,"Quality, Conference"
+R_3rMofNwuc818Ldq,"I understand that there is generally more space in a journal paper, but on needs to find space in a shorter paper too. ",Original comment
+R_3rMofNwuc818Ldq,"I understand that there is generally more space in a journal paper, but on needs to find space in a shorter paper too. ",Both
+R_3rMofNwuc818Ldq, more space in a journal paper,"Space, Journal"
+R_12RQqpVGE2qYoq3,Difference of space and time.,Original comment
+R_12RQqpVGE2qYoq3,Difference of space,"Dofference, Space"
+R_12RQqpVGE2qYoq3,Difference of  time,"Difference, Time"
