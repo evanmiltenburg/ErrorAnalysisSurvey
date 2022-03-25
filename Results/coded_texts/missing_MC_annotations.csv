@@ -1,13 +1,31 @@
-identifier,comment
-R_2uIYMUOPADUs0Gp,standards
-R_1Fb4cMbBLCr1Mps,ability to outsource error analysis
-R_9FWWZPFa03RKtDb,Better documented taxonomies and procedures
-R_2viGZF9YUjaTxAZ,funding
-R_3CClKJCQVTV5fKQ,"Knowledge on the topic, don't know resources"
-R_3PUctIwcmDJt5t4,"Don't know tool, the practice seems relatively novel, expect new resources coming "
-R_1msf0KMkf86xvU7,"Error analysis taxonomy, best practices, guidance, annotation tools."
-R_3JhffzVm2xlXoiQ,"An efficient guideline, platform for setting the standard and replicable error analysis."
-R_2at4iBHFbZ9qXF9,"taxonomies, examples how to use them, tools"
-R_3dS2PTlM6FW2INE,A good taxonomy of error categories
-R_u3vQ66FYA58WEnL,not aware of widely recognized resources for error analysis  in NLG. 
-R_2c0i363Fh3IQN3w,"Funding,  study involving native speakers "
+identifier,comment,code
+R_2uIYMUOPADUs0Gp,Standards,Original comment
+R_2uIYMUOPADUs0Gp,Standards,Standards
+R_1Fb4cMbBLCr1Mps,the ability to outsource error analysis!,Original comment
+R_9FWWZPFa03RKtDb,Better documented taxonomies and procedures,Original comment
+R_9FWWZPFa03RKtDb,Better documented taxonomies,Taxonomies
+R_9FWWZPFa03RKtDb,Better documented procedures,Procedures
+R_2viGZF9YUjaTxAZ,"Funding.  Whilst an error analysis is important, the way I work would mean that performing an error analysis would take away time from working on the NLG system itself, which could in turn reduce errors made.  Funding could help this.",Original comment
+R_2viGZF9YUjaTxAZ,"Funding.  Whilst an error analysis is important, the way I work would mean that performing an error analysis would take away time from working on the NLG system itself, which could in turn reduce errors made.  Funding could help this.",Funds
+R_3CClKJCQVTV5fKQ,Knowledge on the topic. I don't which resources exist yet. ,Original comment
+R_3CClKJCQVTV5fKQ,Knowledge on the topic. I don't which resources exist yet. ,Knowledge
+R_3CClKJCQVTV5fKQ,Knowledge on the topic. I don't which resources exist yet. ,Not existing resources
+R_3PUctIwcmDJt5t4,"Don't know which tool is missing, but the practice itself seems relatively novel, so I can expect new resources coming in the future.",Original comment
+R_1msf0KMkf86xvU7,"Error analysis taxonomy, best practices, guidance, annotation tools.",Original comment
+R_1msf0KMkf86xvU7,Error analysis taxonomy,Taxonomies
+R_1msf0KMkf86xvU7,best practices,Best Practices
+R_1msf0KMkf86xvU7, guidance,Guidelines
+R_1msf0KMkf86xvU7,annotation tools,Tools
+R_3JhffzVm2xlXoiQ,An efficient guideline and platform for setting the standard and replicable error analysis.,Original comment
+R_3JhffzVm2xlXoiQ,An efficient guideline,Guidelines
+R_3JhffzVm2xlXoiQ, platform for setting the standard and replicable error analysis.,Tools
+R_2at4iBHFbZ9qXF9,"taxonomies, examples how to use them, tools",Original comment
+R_2at4iBHFbZ9qXF9,"taxonomies, examples how to use them",Guidelines
+R_2at4iBHFbZ9qXF9, tools,Tools
+R_2at4iBHFbZ9qXF9,taxonomies,Taxonomies
+R_3dS2PTlM6FW2INE,A good taxonomy of error categories you could typically use.,Original comment
+R_3dS2PTlM6FW2INE,A good taxonomy of error categories you could typically use.,Taxonomies
+R_u3vQ66FYA58WEnL,I am not aware of widely recognized resources for error analysis  in NLG. ,Original comment
+R_u3vQ66FYA58WEnL,I am not aware of widely recognized resources for error analysis  in NLG. ,Not existing resources
+R_2c0i363Fh3IQN3w,Funding to do a study involving native speakers (I am not a native English speaker),Original comment
+R_2c0i363Fh3IQN3w,Funding to do a study involving native speakers,Funds
