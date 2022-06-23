@@ -1,20 +1,42 @@
 identifier,comment,code
 R_2uIYMUOPADUs0Gp,Not on a formal and structured level as for now.,Original comment
+R_2uIYMUOPADUs0Gp,Not on a formal and structured level as for now.,Informal only
 R_3EVTcFVWkcADmAn,It can improve the results and quality of generations.,Original comment
+R_3EVTcFVWkcADmAn,It can improve the results and quality of generations.,Improve results
 R_1Fb4cMbBLCr1Mps,Need to measure accuracy of generated texts,Original comment
+R_1Fb4cMbBLCr1Mps,Need to measure accuracy of generated texts,Measure accuracy
 R_2Bx0flTszYdxDPA,They are too useful to not do them,Original comment
+R_2Bx0flTszYdxDPA,They are too useful to not do them,Useful
 R_tK6Arub4LFxhMTT,Sometimes it is needed...,Original comment
+R_tK6Arub4LFxhMTT,Sometimes it is needed...,Required
 R_1OxiIuva6OIySjr,I think it's useful,Original comment
+R_1OxiIuva6OIySjr,I think it's useful,Useful
 R_9FWWZPFa03RKtDb,It is useful,Original comment
+R_9FWWZPFa03RKtDb,It is useful,Useful
 R_8AMlQcW7cB0S0lH,I think its important to manually inspect the data from a computational linguistic perspective and it can provide valuable insights into improving inputs perhaps or neural architectures in order to guarantee more semantically adequate   production systems.,Original comment
+R_8AMlQcW7cB0S0lH,I think its important to manually inspect the data from a computational linguistic perspective and it can provide valuable insights into improving inputs perhaps or neural architectures in order to guarantee more semantically adequate   production systems.,Insight
 R_3PmNb56WDtzFl00,Essential part of evaluation!,Original comment
+R_3PmNb56WDtzFl00,Essential part of evaluation!,Required
 R_1msf0KMkf86xvU7,"I do believe in the importance of error analysis, so I'll make sure to include them as much as possible. However, when working with collaborators, not everyone sees its importance and is willing to invest time (and resources) on it.",Original comment
+R_1msf0KMkf86xvU7,"I do believe in the importance of error analysis,",Important
+R_1msf0KMkf86xvU7, so I'll make sure to include them as much as possible. ,Where possible
+R_1msf0KMkf86xvU7,"However, when working with collaborators, not everyone sees its importance and is willing to invest time (and resources) on it.",Within resource limitations
 R_1oGS3sNlc9Pzbhu,"Scores from automatic evaluation metrics cannot reliably detect or quantify all types of errors in NLG, so manual error analysis is still probably the best kind of evaluation.",Original comment
+R_1oGS3sNlc9Pzbhu,"Scores from automatic evaluation metrics cannot reliably detect or quantify all types of errors in NLG, so manual error analysis is still probably the best kind of evaluation.",Better than metrics
 R_3kgFfd7vL38wXiE,Why not :),Original comment
+R_3kgFfd7vL38wXiE,Why not :),Ambilavent
 R_3dS2PTlM6FW2INE,I feel like the experience with the error analysis I have carried out helps me to outline better categories in the future.,Original comment
+R_3dS2PTlM6FW2INE,I feel like the experience with the error analysis I have carried out helps me to outline better categories in the future.,Better for future
 R_2wmLQttiaGr9OkJ,?,Original comment
+R_2wmLQttiaGr9OkJ,?,Unclear
 R_10rcJTKXKKERNbF,I think carring out error analyses is a way to improve the systems,Original comment
+R_10rcJTKXKKERNbF,I think carring out error analyses is a way to improve the systems,Improve results
 R_u3vQ66FYA58WEnL,"Error analysis is crucial for many uses of NLG systems, especially for systems intended to produce outputs for human audience.",Original comment
+R_u3vQ66FYA58WEnL,"Error analysis is crucial for many uses of NLG systems, especially for systems intended to produce outputs for human audience.",Important
 R_12tjBK7tLWimKGc,"Not necessarily for published research, but doing so for my team is a fairly regular part of my industry job",Original comment
+R_12tjBK7tLWimKGc,Not necessarily for published research,Unnecessary for academia
+R_12tjBK7tLWimKGc,but doing so for my team is a fairly regular part of my industry job,Standard in industry
 R_3rMofNwuc818Ldq,I cannot imagine not having a look at the outputs to see what went wrong.,Original comment
+R_3rMofNwuc818Ldq,I cannot imagine not having a look at the outputs to see what went wrong.,Required
 R_12RQqpVGE2qYoq3,"Alas, I'm too old to do so now, as other projects are more important (writing a book, for example)",Original comment
+R_12RQqpVGE2qYoq3,"Alas, I'm too old to do so now, as other projects are more important (writing a book, for example)",Too busy
