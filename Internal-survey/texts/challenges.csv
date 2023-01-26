@@ -1,14 +1,15 @@
-I, ,d,i,d, ,n,o,t, ,f,i,n,d, ,c,a,r,r,y,i,n,g, ,i,t, ,o,u,t, ,p,a,r,t,i,c,u,l,a,r,l,y, ,c,h,a,l,l,e,n,g,i,n,g, ,a,s, ,t,h,e, ,t,y,p,e, ,o,f, ,e,v,a,l,u,a,t,i,o,n, ,w,a,s, ,"""",e,v,a,l,u,a,t,i,o,n, ,b,y, ,a,n,n,o,t,a,t,i,o,n,"""",., , ,A,n,n,o,t,a,t,o,r,s, ,h,a,d, ,a,l,r,e,a,d,y, ,f,o,u,n,d, ,a,n,d, ,c,a,t,e,g,o,r,i,s,e,d, ,t,h,e, ,e,r,r,o,r,s,",", ,I, ,w,a,s, ,o,n,l,y, ,l,o,o,k,i,n,g, ,f,o,r, ,p,a,t,t,e,r,n,s, ,w,i,t,h,i,n, ,t,h,a,t,",", ,s,o,",", ,f,o,r, ,e,x,a,m,p,l,e,",", ,w,i,t,h,i,n, ,"""",N,u,m,b,e,r,"""", ,e,r,r,o,r,s,",", ,l,o,o,k,i,n,g, ,a,t, ,w,h,i,c,h, ,w,e, ,o,r,d,i,n,a,l, ,o,r, ,c,a,r,d,i,n,a,l,",", ,e,t,c,.
-I, ,f,o,u,n,d, ,t,h,e, ,f,o,l,l,o,w,i,n,g, ,c,h,a,l,l,e,n,g,i,n,g, ,w,h,e,n, ,u,s,i,n,g, ,h,u,m,a,n, ,e,v,a,l,u,a,t,i,o,n, ,f,o,r, ,e,r,r,o,r, ,a,n,a,l,y,s,i,s,:,"
-",-, ,S,e,l,e,c,t,i,n,g, ,a,n, ,a,p,p,r,o,p,r,i,a,t,e, ,e,r,r,o,r, ,t,a,x,o,n,o,m,y, ,f,o,r, ,t,h,e, ,e,v,a,l,u,a,t,i,o,n,., ,T,h,e,r,e, ,i,s, ,n,o, ,s,t,a,n,d,a,r,d,i,s,e,d, ,d,e,f,i,n,i,t,i,o,n,s, ,f,o,r, ,t,h,e, ,e,r,r,o,r, ,t,y,p,e,s,",", ,a,n,d, ,i,t, ,w,a,s, ,h,a,r,d, ,t,o, ,k,n,o,w, ,t,h,e, ,a,p,p,r,o,p,r,i,a,t,e, ,l,e,v,e,l, ,o,f, ,t,e,c,h,n,i,c,a,l, ,l,a,n,g,u,a,g,e, ,a,c,c,e,p,t,a,b,l,e, ,f,o,r, ,t,h,e, ,a,n,n,o,t,a,t,o,r,s,.,"
-",-, ,A,c,h,i,e,v,i,n,g, ,a, ,h,i,g,h, ,i,n,t,e,r,-,a,n,n,o,t,a,t,o,r, ,a,g,r,e,e,m,e,n,t, ,o,n, ,a, ,s,u,r,v,e,y,.
--, ,e,s,t,a,b,l,i,s,h,i,n,g, ,t,h,e, ,t,a,x,o,n,o,m,y, ,o,f, ,e,r,r,o,r,s,"
-",-, ,s,e,l,e,c,t,i,n,g, ,e,x,a,m,p,l,e,s, ,f,o,r, ,t,h,e, ,a,n,a,l,y,s,i,s,"
-",-, ,f,i,n,d,i,n,g, ,t,h,e, ,t,i,m,e, ,f,o,r, ,a,n,a,l,y,z,i,n,g, ,e,n,o,u,g,h, ,s,a,m,p,l,e,s, ,(,u,s,u,a,l,l,y, ,o,p,e,r,a,t,i,n,g, ,g,i,v,e,n, ,a, ,p,a,p,e,r, ,d,e,a,d,l,i,n,e,),"
-",-, ,h,a,n,d,l,i,n,g, ,e,d,g,e, ,c,a,s,e,s, ,(,e,.,g,., ,i,n, ,f,l,u,e,n,c,y, ,e,r,r,o,r,s,), ,o,r, ,a,m,b,i,g,u,o,u,s, ,c,a,s,e,s, ,(,e,r,r,o,r, ,m,a,y, ,b,e, ,o,f, ,t,w,o, ,d,i,f,f,e,r,n,t, ,t,y,p,e,s,)
-I,t, ,w,a,s, ,v,e,r,y, ,h,a,r,d, ,t,o, ,d,e,f,i,n,e, ,o,r, ,c,a,t,e,g,o,r,i,s,e, ,d,i,f,f,e,r,e,n,t, ,t,y,p,e,s, ,o,f, ,e,r,r,o,r,s,.
--, ,i,t, ,i,s, ,t,i,m,e, ,c,o,n,s,u,m,i,n,g,"
-",-, ,i,t, ,i,s, ,h,a,r,d, ,t,o, ,c,o,m,e, ,u,p, ,w,i,t,h, ,m,e,a,n,i,n,g,f,u,l, ,c,a,t,e,g,o,r,i,e,s, ,(,n,o,t, ,t,o,o, ,d,e,t,a,i,l,e,d, ,&, ,n,o,t, ,t,o,o, ,g,e,n,e,r,a,l,),"
-",-, ,i,t, ,m,a,y, ,r,e,q,u,i,r,e, ,s,o,m,e, ,s,u,b,j,e,c,t,i,v,e, ,j,u,d,g,e,m,e,n,t, 
-C,a,t,e,g,o,r,i,s,i,n,g, ,t,h,e, ,m,i,s,t,a,k,e,s, ,m,a,d,e, ,b,y, ,t,h,e, ,s,y,s,t,e,m,",", ,b,e,c,a,u,s,e, ,t,h,e, ,e,r,r,o,r,s, ,w,e,r,e, ,o,f,t,e,n, ,a,m,b,i,g,u,o,u,s, ,b,e,t,w,e,e,n, ,d,i,f,f,e,r,e,n,t, ,c,a,t,e,g,o,r,i,e,s,., ,(,M,a,y,b,e, ,I, ,s,h,o,u,l,d, ,h,a,v,e, ,c,h,o,s,e,n, ,a, ,h,i,g,h,e,r, ,l,e,v,e,l, ,o,f, ,a,b,s,t,r,a,c,t,i,o,n, ,t,o, ,a,v,o,i,d, ,t,h,i,s,",", ,b,u,t, ,t,h,a,t, ,w,o,u,l,d,',v,e, ,m,a,d,e, ,t,h,e, ,a,n,a,l,y,s,i,s, ,l,e,s,s, ,u,s,e,f,u,l,.,)
-T,h,e, ,o,n,l,y, ,c,o,m,p,l,e,x,i,t,y, ,i,s, ,t,h,a,t, ,i,t, ,a,d,d,s, ,a,d,d,i,t,i,o,n,a,l, ,t,i,m,e, ,t,o, ,p,r,e,p,a,r,e, ,t,h,e, ,r,e,s,u,l,t,s,.
+identifier,comment
+1,"I did not find carrying it out particularly challenging as the type of evaluation was ""evaluation by annotation"".  Annotators had already found and categorised the errors, I was only looking for patterns within that, so, for example, within ""Number"" errors, looking at which we ordinal or cardinal, etc."
+2,"I found the following challenging when using human evaluation for error analysis:
+- Selecting an appropriate error taxonomy for the evaluation. There is no standardised definitions for the error types, and it was hard to know the appropriate level of technical language acceptable for the annotators.
+- Achieving a high inter-annotator agreement on a survey."
+3,"- establishing the taxonomy of errors
+- selecting examples for the analysis
+- finding the time for analyzing enough samples (usually operating given a paper deadline)
+- handling edge cases (e.g. in fluency errors) or ambiguous cases (error may be of two differnt types)"
+4,It was very hard to define or categorise different types of errors.
+5,"- it is time consuming
+- it is hard to come up with meaningful categories (not too detailed & not too general)
+- it may require some subjective judgement "
+6,"Categorising the mistakes made by the system, because the errors were often ambiguous between different categories. (Maybe I should have chosen a higher level of abstraction to avoid this, but that would've made the analysis less useful.)"
+7,The only complexity is that it adds additional time to prepare the results.
